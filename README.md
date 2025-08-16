@@ -1,4 +1,4 @@
-# Project 4- 📈Excel
+# Project-4: 📈Excel
 Freshco Hypermarket Analysis
 # Overview
 **Objective:** Improve sales and operations reporting for Freshco Hypermarket.
