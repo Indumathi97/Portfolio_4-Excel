@@ -1,4 +1,4 @@
-# Portfolio-4: 📈Excel-Freshco Sales & Inventory Analysis
+# Portfolio-4: 📈Excel - Freshco Sales & Inventory Analysis
 # Description
 This Excel-based capstone project focuses on analyzing Freshco’s retail sales and inventory data to uncover actionable insights for business optimization. The dataset includes product-level transactions, stock levels, and regional performance metrics. Through structured data cleaning, dynamic dashboards, and formula-driven analysis, the project delivers a comprehensive overview of sales trends, inventory efficiency, and profitability.
 
@@ -19,7 +19,7 @@ This Excel-based capstone project focuses on analyzing Freshco’s retail sales 
 * **Conditional Formatting** - Highlighting key metrics and anomalies
 # Project Outcome
 * Delivered a clean, interactive dashboard summarizing Freshco’s sales and inventory performance
-* Identified top 10 products by revenue and profit margin
+* Identified top products by revenue and profit margin
 * Flagged low-turnover items and suggested restocking strategies
 * Enabled regional managers to filter performance by location and time period
 * Provided actionable recommendations for improving inventory efficiency and boosting sales
